@@ -34,9 +34,9 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 后台可以任意调节您的CPU频率和配置文件，拥有破解系统最高权限的状态监控，由于内核版本限制以及SELinux策略的阻扰，目前GPU的负载和画面帧率无法正常显示。![IMG_9783](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/6a806a30-bdb3-4568-ac56-c47366064698)
 
 
-**常用功能如下：**
+*常用功能如下：*
 
-*QQ HD版本、哔哩哔哩HD版本、微信、百度网盘、via浏览器、我的世界、WPS免费版、月光串流软件、游戏模拟器识别助手、全能模拟器、天气预报纯净版等。*
+**QQ HD版本、哔哩哔哩HD版本、微信、百度网盘、via浏览器、我的世界、WPS免费版、月光串流软件、游戏模拟器识别助手、全能模拟器、天气预报纯净版等。**
 ![IMG_9775](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/10d6b0c7-b137-4b8c-a58e-1b96894b6172)
 
 ![IMG_9786](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/513b954e-2620-4717-964f-e686c5743141)
