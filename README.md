@@ -14,7 +14,7 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 ![IMG_9764](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/67f9fe33-fe62-48ac-852b-88415d001411)
 
 同时RoastDuck-AndroidPack还提供了完美的系统集成服务，包括广告屏蔽，后台程序冻结，魔法上网，APK提取和伪验证、签名，其他文件格式的魔改安装等功能。
-At the same time, RoastDuck-AndroidPack also provides perfect system integration services, including ad blocking, background program freezing, magic Internet access, APK extraction and pseudo verification, signature, and magic installation of other file formats.
+```At the same time, RoastDuck-AndroidPack also provides perfect system integration services, including ad blocking, background program freezing, magic Internet access, APK extraction and pseudo verification, signature, and magic installation of other file formats.```
 
 ![IMG_9773](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/be1777a8-4f43-44e8-b30c-757faebe0223)
 ![IMG_9779](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/30947c28-243f-4b8b-9ffc-517e74e2e8c1)
