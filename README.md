@@ -4,12 +4,20 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 这里包含了几乎全部流行的模拟器软件，全部测试可以完美运行。
 
 **你只需安装本整合包即可享受包括但不限于3DS/NDS/GBA/FC/PSP/PSV等游戏，甚至你可以用它来模拟Switch原生游戏，也就是YUZU安卓版本。**
+
 ![IMG_9765](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/82a0f558-50b0-4bf8-b6f1-10a4aea9d746)
+
+基于谷歌输入法的一切配置，自带完整中文字库和语言包。
+![helloworld png](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/5b9a9717-1327-46ff-b5f1-ecff112cfde8)
+
 
 这里是安卓系统的基准测试，烤鸭包安卓版本默认配置：
 ```CPU频率高达2295MHz```
 ```内存频率2200MHz```
 ```GPU跟随系统自动调节，最大可以输出1228MHz。```
+
+![3Dmark](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/a695afb7-3c4d-4f51-9c60-0a5873eabb0b)
+
 
 ![IMG_9764](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/67f9fe33-fe62-48ac-852b-88415d001411)
 
