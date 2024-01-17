@@ -14,6 +14,7 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 ![IMG_9764](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/67f9fe33-fe62-48ac-852b-88415d001411)
 
 同时RoastDuck-AndroidPack还提供了完美的系统集成服务，包括广告屏蔽，后台程序冻结，魔法上网，APK提取和伪验证、签名，其他文件格式的魔改安装等功能。
+At the same time, RoastDuck-AndroidPack also provides perfect system integration services, including ad blocking, background program freezing, magic Internet access, APK extraction and pseudo verification, signature, and magic installation of other file formats.
 
 ![IMG_9773](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/be1777a8-4f43-44e8-b30c-757faebe0223)
 ![IMG_9779](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/30947c28-243f-4b8b-9ffc-517e74e2e8c1)
@@ -36,6 +37,16 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 
 自带磁力链接解析，就像电脑端的IDM一样，快速下载你喜欢的文件。
 
+```It comes with a system volume enhancement function, which allows you to watch videos at a larger volume, with remarkable effects.```
+
+```It comes with the function of beautifying the main interface font and status bar, and comes with a game mode.```
+
+```It comes with a steam deck theme available for the Switch Android system. You can use it to run your favorite games and applications to meet your NTR preferences.```
+
+```It also includes the Android Switch controller simulation function (not available yet)```
+
+```It comes with magnet link analysis, just like IDM on the computer, quickly download your favorite files.```
+
 ![IMG_9782](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/c9295379-67e8-482d-aed0-990d3a2d0f43)
 
 自带电池充电保护以及风险提示功能，自带电池手柄优化功能。
@@ -51,6 +62,7 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 *常用功能如下：*
 
 ```QQ HD版本、哔哩哔哩HD版本、微信、百度网盘、via浏览器、我的世界、WPS免费版、月光串流软件、游戏模拟器识别助手、全能模拟器、天气预报纯净版等。```
+```QQ HD version, Bilibili HD version, WeChat, Baidu Netdisk, via browser, Minecraft, WPS free version, Moonlight streaming software, game simulator identification assistant, all-round simulator, weather forecast version, etc.```
 
 ![IMG_9775](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/10d6b0c7-b137-4b8c-a58e-1b96894b6172)
 
