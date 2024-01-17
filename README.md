@@ -7,8 +7,8 @@ Roast Duck Pack Android version, a versatile Android integration system suitable
 ![IMG_9765](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/82a0f558-50b0-4bf8-b6f1-10a4aea9d746)
 
 这里是安卓系统的基准测试，烤鸭包安卓版本默认配置：
-```CPU频率高达2295MHz
-```内存频率2200MHz
+```CPU频率高达2295MHz```
+内存频率2200MHz
 GPU跟随系统自动调节，最大可以输出1228MHz。
 
 ![IMG_9764](https://github.com/sskyNS/RoastDuck-AndroidPack/assets/121209531/67f9fe33-fe62-48ac-852b-88415d001411)
